@@ -1,0 +1,16 @@
+# Secrets
+.env
+
+# Batch run artifacts
+processed_files.csv
+conversion.log
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Streamlit
+.streamlit/
+
+# Jupyter
+.ipynb_checkpoints/
